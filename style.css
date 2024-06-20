@@ -69,10 +69,11 @@
     content: '';
     font-size: 16px;
     position: absolute;
-    bottom: -5px;
+    bottom: -15px;
     left: 50px;
     transform: translateX(-50%);
     text-align: center;
+    color: #e37070;
 }
 
 #hrs::after {
